@@ -22,6 +22,7 @@ Ansible Role can take parameters, these parameters can determine where and how A
 Due to the fast pace of features and parameters that get added we will not include them here directly, but they can be accessed in two places. In our public GitHub repository (https://github.com/avinetworks/ansible-role-avicontroller) or in the Ansible Galaxy (https://galaxy.ansible.com/avinetworks/avicontroller/). The readme includes all possible parameters.
 
 
+
 ************************
 Deploying Avi Controller
 ************************
